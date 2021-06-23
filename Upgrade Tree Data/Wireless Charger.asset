@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4143e767e71db54eb5573ce8e1e2031, type: 3}
+  m_Name: Wireless Charger
+  m_EditorClassIdentifier: 
+  Cost: 0
+  NameUpgrade: 
+  Level: 0
+  TextLevel: 
+  LevelRequired: 0
+  RealtorCompany: 0
+  VRAM: 0
+  TypeVRAM: 0
+  PowerVideocard: 0
+  CoreProcessor: 0
+  PowerProcessor: 0
+  DayMarketing: 0
+  MinPlusFun: 0
+  MaxPlusFun: 0
+  TextConditions: 
+  RewardQuest: 0
+  Conditions: 0
+  typeSetting: 0
+  typeVideocard: 0
