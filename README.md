@@ -12,5 +12,6 @@
 ## 📱 Скачайте игру
 [Скачать APK](https://github.com/MatherTGL/LaptopTycoon_Scripts/releases/tag/Laptop)
 
-
- 
+![Platform](https://img.shields.io/badge/Platform-Android-brightgreen)
+![Unity](https://img.shields.io/badge/Engine-Unity-blue)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
